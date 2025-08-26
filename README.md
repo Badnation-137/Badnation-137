@@ -8,8 +8,8 @@
 
 ### 🔎 About Me
 
-* 🌱 Currently learning: **Cloud Computing**, **SysAdmin**, **Networking**, **Cybersecurity**
-* 🧰 Tools I use: **Ubuntu MATE**, **WSL**, **VMware**, **EVE‑NG**, **Wireshark**, **Cisco Packet Tracer**
+* 🌱 Currently learning: **Cloud Computing**, **SysAdmin**, **Networking**, **Cybersecurity**,  **Data Science**,  **Data Center**
+* 🧰 Tools I use: **Ubuntu *, **WSL**, **VMware**, **EVE‑NG**, **Wireshark**, **Cisco Packet Tracer**,  **Ubuntu Server**
 * 🎯 Goal: Ship reliable cloud systems and security-ready infrastructures
 
 ---
@@ -35,37 +35,23 @@
 ### 🚀 Featured Projects
 
 * **Sixlabs Cloud Platform** — Cloud platform initiative (architecture & prototypes)
-  🔗 Repo: `https://github.com/<USERNAME>/sixlabs` *(update link if different)*
-* **Workforce Skill Gap Analytics Dashboard** — Data analytics portfolio (Python, SQL, Matplotlib)
-  🔗 Repo: `https://github.com/<USERNAME>/skill-gap-analytics`
-* **Streaming App (VoD + Live)** — System design artifacts (use cases, diagrams, flows)
-  🔗 Repo: `https://github.com/<USERNAME>/streaming-app-design`
+* **Workforce Skill Gap Analytics Dashboard** — Dashboard With Analyst Data (Python, SQL, Tableau)
+* **Independent Data Exploration** — Analytical Data (Python, VS Code)
+  🔗 Repo: `https://github.com/Badnation-137/Independent-Data-Exploration`
 
-> Tip: ganti `<USERNAME>` dengan username GitHub kamu.
-
----
-
-### 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=<USERNAME>\&show_icons=true\&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=<USERNAME>\&layout=compact\&theme=tokyonight)
 
 ---
 
 ### 🧩 Badges & Counters
 
-![Profile Views](https://komarev.com/ghpvc/?username=<USERNAME>\&color=blue)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/<your-handle>)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/abdul-hafiz-atallah/)
 
 ---
 
 ### 💬 Fun Facts
 
-* ⚡ Favorite OS: **Ubuntu MATE**
+* ⚡ Favorite OS: **Ubuntu**
 * 🧪 Enjoy packet sniffing with **Wireshark**
 * ☕ Coffee-powered late night tinkerer
-
----
-
 
 ---

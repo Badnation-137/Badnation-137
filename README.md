@@ -77,42 +77,8 @@ Add this to show your contribution graph as a snake (see workflow file below):
 
 ---
 
-## ⚙️ GitHub Actions for Snake (Optional)
-
-Buat file: `.github/workflows/snake.yml`
-
-```yaml
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 0 * * *"  # daily
-  workflow_dispatch:
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout
-        uses: actions/checkout@v4
-
-      - name: Generate snake
-        uses: Platane/snk@v3
-        with:
-          github_user_name: <USERNAME>
-          outputs: dist/snake.svg
-
-      - name: Push to output branch
-        uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-> Setelah workflow jalan, update link di README ke:
-> `https://github.com/<USERNAME>/<USERNAME>/blob/output/snake.svg`
+## 🐍 Contribution Snake
+![snake gif](https://github.com/Badnation-137/Badnation-137/blob/output/snake.svg)
 
 ---
 

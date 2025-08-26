@@ -9,7 +9,7 @@
 ### 🔎 About Me
 
 * 🌱 Currently learning: **Cloud Computing**, **SysAdmin**, **Networking**, **Cybersecurity**,  **Data Science**,  **Data Center**
-* 🧰 Tools I use: **Ubuntu *, **WSL**, **VMware**, **EVE‑NG**, **Wireshark**, **Cisco Packet Tracer**,  **Ubuntu Server**
+* 🧰 Tools I use: **Ubuntu **, **WSL**, **VMware**, **EVE‑NG**, **Wireshark**, **Cisco Packet Tracer**,  **Ubuntu Server**
 * 🎯 Goal: Ship reliable cloud systems and security-ready infrastructures
 
 ---

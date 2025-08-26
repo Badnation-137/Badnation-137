@@ -59,16 +59,6 @@
 
 ---
 
-### 🐍 Contribution Snake (Optional)
-
-Add this to show your contribution graph as a snake (see workflow file below):
-
-```md
-![snake gif](https://github.com/<USERNAME>/<USERNAME>/blob/output/github-contribution-grid-snake.svg)
-```
-
----
-
 ### 💬 Fun Facts
 
 * ⚡ Favorite OS: **Ubuntu MATE**
@@ -77,14 +67,5 @@ Add this to show your contribution graph as a snake (see workflow file below):
 
 ---
 
-## 🐍 Contribution Snake
-![snake gif](https://github.com/Badnation-137/Badnation-137/blob/output/snake.svg)
 
 ---
-
-## 📎 Notes
-
-* Pastikan repo profil **harus** bernama sama persis dengan username kamu.
-* Ganti semua `<USERNAME>` dengan username GitHub kamu.
-* Update tautan proyek sesuai repo yang kamu punya.
-* Tambahkan sertifikat/portofolio lain bila perlu (CTF, lab EVE‑NG, admin tasks, dll).

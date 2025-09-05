@@ -1,3 +1,9 @@
+## 🐍 Contribution Snake
+![GitHub Snake dark](https://github.com/Badnation-137/Badnation-137/blob/output/snake-dark.svg#gh-dark-mode-only)
+![GitHub Snake light](https://github.com/Badnation-137/Badnation-137/blob/output/snake-light.svg#gh-light-mode-only)
+
+---
+
 # 👋 Hi, I'm **Abdul Hafiz Atallah**
 
 💻 Information Systems Student (Universitas Bakrie)

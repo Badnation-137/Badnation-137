@@ -37,16 +37,6 @@
 
 ---
 
-### 🚀 Featured Projects
-
-* **Sixlabs Cloud Platform** — Cloud platform initiative (architecture & prototypes)
-* **Workforce Skill Gap Analytics Dashboard** — Dashboard With Analyst Data (Python, SQL, Tableau)
-* **Independent Data Exploration** — Analytical Data (Python, VS Code)
-  🔗 Repo: `https://github.com/Badnation-137/Independent-Data-Exploration`
-
-
----
-
 ### 🧩 Badges & Counters
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/abdul-hafiz-atallah/)

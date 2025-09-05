@@ -1,6 +1,18 @@
 ## Welcome To My Profile !!
-![GitHub Snake dark](https://github.com/Badnation-137/Badnation-137/blob/output/snake-dark.svg#gh-dark-mode-only)
-![GitHub Snake light](https://github.com/Badnation-137/Badnation-137/blob/output/snake-light.svg#gh-light-mode-only)
+### 🌌 Cyberpunk
+![Snake Cyberpunk](https://github.com/Badnation-137/Badnation-137/blob/output/snake-cyberpunk.svg)
+
+### 💻 Matrix
+![Snake Matrix](https://github.com/Badnation-137/Badnation-137/blob/output/snake-matrix.svg)
+
+### 🌸 Pastel
+![Snake Pastel](https://github.com/Badnation-137/Badnation-137/blob/output/snake-pastel.svg)
+
+### 🔥 Lava
+![Snake Lava](https://github.com/Badnation-137/Badnation-137/blob/output/snake-lava.svg)
+
+### 🌈 Rainbow
+![Snake Rainbow](https://github.com/Badnation-137/Badnation-137/blob/output/snake-rainbow.svg)
 
 ---
 

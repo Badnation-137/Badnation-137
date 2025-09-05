@@ -2,18 +2,6 @@
 ### 🌌 Cyberpunk
 ![Snake Cyberpunk](https://github.com/Badnation-137/Badnation-137/blob/output/snake-cyberpunk.svg)
 
-### 💻 Matrix
-![Snake Matrix](https://github.com/Badnation-137/Badnation-137/blob/output/snake-matrix.svg)
-
-### 🌸 Pastel
-![Snake Pastel](https://github.com/Badnation-137/Badnation-137/blob/output/snake-pastel.svg)
-
-### 🔥 Lava
-![Snake Lava](https://github.com/Badnation-137/Badnation-137/blob/output/snake-lava.svg)
-
-### 🌈 Rainbow
-![Snake Rainbow](https://github.com/Badnation-137/Badnation-137/blob/output/snake-rainbow.svg)
-
 ---
 
 # 👋 Hi, I'm **Abdul Hafiz Atallah**

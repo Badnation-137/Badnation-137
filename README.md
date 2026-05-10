@@ -6,10 +6,8 @@
 ### Data & System Enthusiast
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdul-hafiz-atallah)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hafizatallah110@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Badnation-137)
 
----
 
 ## ⚡ What I Do
 
@@ -42,7 +40,7 @@ Not just code that runs — but code that delivers insights, stays secure, and s
 
 - 🔐 Deep diving into Cloud Computing & Cybersecurity  
 - 🤖 Exploring intelligent test automation & data pipelines  
-- ☕ Always coffee-powered, always learning
+- ☕ Always chiill!!, always learning
 
 ---
 

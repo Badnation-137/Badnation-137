@@ -51,8 +51,5 @@ Not just code that runs — but code that delivers insights, stays secure, and s
 Whether it's data, testing, or just tech talk — hit me up.
 
 **Email** : hafizatallah110@gmail.com  
-**LinkedIn** : [abdul-hafiz-atallah](https://www.linkedin.com/in/abdul-hafiz-atallah)
-
----
 
 *“Quality is not an act. It's a habit.”*

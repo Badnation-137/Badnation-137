@@ -17,15 +17,11 @@
 | 🔧 **Quality Assurance** | Automation testing, CI/CD, API testing, test frameworks (Go/Python) |
 | ☁️ **Cloud & SysAdmin** | Linux, Docker, virtualization, networking, security basics |
 
----
-
 ## 🛠️ Tech Stack
 🐍 Python | 📊 Power BI | 🐹 Go (Golang)
 🗄️ PostgreSQL | 🐳 Docker | ☁️ GitHub Actions
 🔧 Postman | 🧪 Testcontainers | 🐧 Ubuntu/Linux
 📈 Pandas/Matplotlib| 🔍 Wireshark | 📡 Cisco Packet Tracer
-
----
 
 ## 🧠 Philosophy
 
@@ -33,8 +29,6 @@
 
 I bridge the gap between **data-driven decisions** and **software reliability**.  
 Not just code that runs — but code that delivers insights, stays secure, and scales.
-
----
 
 ## 📍 Currently
 

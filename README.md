@@ -4,7 +4,7 @@
 ---
 # 🚀 Abdul Hafiz Atallah
 
-### Information Systems @ Universitas Bakrie
+### Data & System Enthusiast
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdul-hafiz-atallah)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hafizatallah110@gmail.com)
@@ -41,7 +41,6 @@ Not just code that runs — but code that delivers insights, stays secure, and s
 
 ## 📍 Currently
 
-- 🎓 Studying Information Systems @ Universitas Bakrie  
 - 🔐 Deep diving into Cloud Computing & Cybersecurity  
 - 🤖 Exploring intelligent test automation & data pipelines  
 - ☕ Always coffee-powered, always learning

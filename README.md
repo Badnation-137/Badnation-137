@@ -1,8 +1,7 @@
-## 🌌 Welcome To My Profile !!
+## 🌌 Heil!!
 ![Snake Cyberpunk](https://github.com/Badnation-137/Badnation-137/blob/output/snake-cyberpunk.svg)
 
 ---
-# 🚀 Abdul Hafiz Atallah
 
 ### Data & System Enthusiast
 
